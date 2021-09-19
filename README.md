@@ -3,6 +3,6 @@ OneNeuron | perceptron
 
 # Commands Used
 
-'''bash
+```bash
 git add . && git commit -m "my_msg" && git push origin main
-'''
+```
